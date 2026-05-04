@@ -10,7 +10,7 @@
     "grunt": "^1.0.3",
     "grunt-aws-lambda": "^0.13.0",
     "inquirer": "^6.0.0",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "scripts": {
     "lint": "eslint .",
