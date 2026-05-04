@@ -11,7 +11,7 @@
     "inquirer": "^6.0.0",
     "jest": "^23.5.0",
     "opn": "^5.3.0",
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   },
   "scripts": {
     "lint": "eslint .",
